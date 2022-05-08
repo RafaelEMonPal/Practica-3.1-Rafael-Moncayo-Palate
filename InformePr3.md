@@ -50,6 +50,7 @@ void handle_root() {
 
 }
 ```
+Server
 ______________________________________________________
 ```cpp
 #include <Arduino.h>
@@ -66,4 +67,4 @@ String HTML =
 </body>\
 </html> ";
 ```
-
+## Explicació de la pràctica
