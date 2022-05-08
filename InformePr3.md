@@ -50,7 +50,7 @@ void handle_root() {
 
 }
 ```
-Server
+Server succes.png
 ______________________________________________________
 ```cpp
 #include <Arduino.h>
