@@ -50,7 +50,8 @@ void handle_root() {
 
 }
 ```
-Server succes.png
+![alt text](https://github.com/RafaelEMonPal/Practica-3.1-Rafael-Moncayo-Palate/blob/main/Server%20succes.png)
+
 ______________________________________________________
 ```cpp
 #include <Arduino.h>
@@ -67,4 +68,6 @@ String HTML =
 </body>\
 </html> ";
 ```
+![alt text](https://github.com/RafaelEMonPal/Practica-3.1-Rafael-Moncayo-Palate/blob/main/Pag%20web.png)
+
 ## Explicació de la pràctica
