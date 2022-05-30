@@ -71,3 +71,5 @@ String HTML =
 ![alt text](https://github.com/RafaelEMonPal/Practica-3.1-Rafael-Moncayo-Palate/blob/main/Pag%20web.png)
 
 ## Explicació de la pràctica
+
+En el principi del codi de la pràctica afegim la llibreria que ens proporciona la ESP per poder utilitzar el wifi. Comences amb a conexió wifi amb la teva xarxa amb un WiFi.begin(ssid,contrasenya). Després, amb el handleroot, assignes la ip local a una pagina web externa declarada com un String HTML on tindrem el diseny de la pagina web i amb el handleclient() comences la conexió amb el servidor. 
